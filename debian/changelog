@@ -1,0 +1,5 @@
+uab-xrdp-path-error (1.0) bionic; urgency=medium
+
+  * Initial Release (#SU-53491) To solve error on PATH on xrdp connections.
+
+ -- Jordi Román Mejias <Jordi.Roman@uab.cat>  Mon, 17 Oct 2022 11:24:54 +0200

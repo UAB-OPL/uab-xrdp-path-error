@@ -1,0 +1,13 @@
+Source: uab-xrdp-path-error
+Section: misc
+Priority: optional
+Maintainer: Jordi Román Mejias <Jordi.Roman@uab.cat>
+Build-Depends: debhelper-compat (= 12)
+Standards-Version: 4.4.1
+
+
+Package: uab-xrdp-path-error
+Architecture: all
+Depends: ${misc:Depends}
+Description: Solve error in PATH on xRDP connections
+ This package solve error in PATH on xRDP connections. Empty package
